@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Virat Kohli",
+      "age": 33,
+      "career_start": 2008,
+      "team": "India",
+      "strike_rate": 93.17,
+      "format": "ODI",
+      "average": 59.07
+    },
+    {
+      "name": "Steve Smith",
+      "age": 32,
+      "career_start": 2010,
+      "team": "Australia",
+      "strike_rate": 87.57,
+      "format": "Test",
+      "average": 61.80
+    },
+    {
+      "name": "Kane Williamson",
+      "age": 31,
+      "career_start": 2010,
+      "team": "New Zealand",
+      "strike_rate": 77.94,
+      "format": "Test",
+      "average": 54.31
+    },
+    {
+      "name": "Rohit Sharma",
+      "age": 35,
+      "career_start": 2007,
+      "team": "India",
+      "strike_rate": 88.92,
+      "format": "T20",
+      "average": 32.62
+    },
+    {
+      "name": "Babar Azam",
+      "age": 27,
+      "career_start": 2015,
+      "team": "Pakistan",
+      "strike_rate": 88.30,
+      "format": "ODI",
+      "average": 56.83
+    },
+    {
+      "name": "Joe Root",
+      "age": 31,
+      "career_start": 2012,
+      "team": "England",
+      "strike_rate": 86.38,
+      "format": "Test",
+      "average": 49.39
+    },
+    {
+      "name": "David Warner",
+      "age": 35,
+      "career_start": 2009,
+      "team": "Australia",
+      "strike_rate": 95.55,
+      "format": "T20",
+      "average": 29.46
+    },
+    {
+      "name": "Quinton de Kock",
+      "age": 29,
+      "career_start": 2012,
+      "team": "South Africa",
+      "strike_rate": 94.94,
+      "format": "ODI",
+      "average": 45.41
+    },
+    {
+      "name": "Kagiso Rabada",
+      "age": 27,
+      "career_start": 2014,
+      "team": "South Africa",
+      "strike_rate": 30.10,
+      "format": "Test",
+      "average": 22.95
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "age": 34,
+      "career_start": 2006,
+      "team": "Bangladesh",
+      "strike_rate": 82.23,
+      "format": "ODI",
+      "average": 38.68
+    },
+    {
+      "name": "Rashid Khan",
+      "age": 23,
+      "career_start": 2015,
+      "team": "Afghanistan",
+      "strike_rate": 110.83,
+      "format": "T20",
+      "average": 15.18
+    },
+    {
+      "name": "Mohammad Amir",
+      "age": 29,
+      "career_start": 2009,
+      "team": "Pakistan",
+      "strike_rate": 96.54,
+      "format": "ODI",
+      "average": 29.92
+    },
+    {
+      "name": "Tamim Iqbal",
+      "age": 32,
+      "career_start": 2007,
+      "team": "Bangladesh",
+      "strike_rate": 78.74,
+      "format": "ODI",
+      "average": 36.75
+    },
+    {
+      "name": "Shaheen Afridi",
+      "age": 21,
+      "career_start": 2018,
+      "team": "Pakistan",
+      "strike_rate": 39.73,
+      "format": "Test",
+      "average": 27.02
+    },
+    {
+      "name": "Kusal Perera",
+      "age": 31,
+      "career_start": 2009,
+      "team": "Sri Lanka",
+      "strike_rate": 84.90,
+      "format": "T20",
+      "average": 27.86
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "age": 34,
+      "career_start": 2009,
+      "team": "India",
+      "strike_rate": 85.89,
+      "format": "Test",
+      "average": 35.94
+    },
+    {
+      "name": "Kusal Mendis",
+      "age": 27,
+      "career_start": 2015,
+      "team": "Sri Lanka",
+      "strike_rate": 75.95,
+      "format": "ODI",
+      "average": 30.06
+    },
+    {
+      "name": "Usman Khawaja",
+      "age": 35,
+      "career_start": 2010,
+      "team": "Australia",
+      "strike_rate": 86.34,
+      "format": "T20",
+      "average": 26.96
+    },
+    {
+      "name": "Fakhar Zaman",
+      "age": 31,
+      "career_start": 2012,
+      "team": "Pakistan",
+      "strike_rate": 95.28,
+      "format": "T20",
+      "average": 26.50
+    },
+    {
+      "name": "Najibullah Zadran",
+      "age": 28,
+      "career_start": 2012,
+      "team": "Afghanistan",
+      "strike_rate": 122.39,
+      "format": "T20",
+      "average": 23.60
+    }
+  ]
+  
